@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Similarities() {
+export default function About() {
   return (
     <div>
-      hello  world
+      about
     </div>
   )
 }
